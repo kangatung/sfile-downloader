@@ -4,5 +4,5 @@
 - Simple program to help you download fast.
 
 <h2>Requirements</h2>
-pip install selenium
+pip install selenium<br>
 pip install bs4
