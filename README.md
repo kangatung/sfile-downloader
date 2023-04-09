@@ -5,3 +5,4 @@
 
 <h2>Requirements</h2>
 pip install selenium
+pip install bs4
